@@ -5,3 +5,6 @@ hello this is srilakshmisainadh
 namasteeee
 
 byee
+
+
+echo "this is git training"
