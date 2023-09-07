@@ -10,4 +10,4 @@ namasteeee
 
 byee
 
-echo "this is git"
+echo "this is git practice"
