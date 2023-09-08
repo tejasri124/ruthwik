@@ -3,7 +3,6 @@ mkdir
 sudo
 yum insatll
 cd
-ls -ltr
 pwd
 sudo su -
 chmod
