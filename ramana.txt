@@ -1,0 +1,12 @@
+hello this is devops project
+mkdir
+sudo
+yum insatll
+cd
+ls -ltr
+pwd
+sudo su -
+chmod
+clear
+su - user name
+
