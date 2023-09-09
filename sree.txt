@@ -1,0 +1,20 @@
+hi 
+mkdir
+chmod
+ls -ltr
+pwd
+sudo su -
+su - username
+cd ..
+yum install
+echo
+cat
+touch
+cp
+mv
+rm
+cut
+word count
+useradd name
+passwd user name
+
