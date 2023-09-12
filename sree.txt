@@ -19,3 +19,4 @@ useradd name
 passwd user name
 hello my name is sri 
 i am new  ti this project
+today is tuesday
